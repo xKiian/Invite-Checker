@@ -1,3 +1,4 @@
+//config is from dropout1337
 package logger
 
 import (
